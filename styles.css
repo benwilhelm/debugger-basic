@@ -1,0 +1,13 @@
+.container {
+  margin-top: 2em;
+  max-width: 400px;
+}
+
+.total {
+  text-align: right;
+  font-size: 10rem
+}
+
+.btn {
+  font-size: 2rem;
+}
